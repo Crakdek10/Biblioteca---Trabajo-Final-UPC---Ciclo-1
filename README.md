@@ -46,3 +46,22 @@ Hola, este es un trabajo final de c++ que me dejaron en la universidad, trata so
 ### Menú de administradores 2 
 
 ![image](https://github.com/Crakdek10/Biblioteca---Trabajo-Final-UPC---Ciclo-1/assets/160164964/26659d26-87e3-4364-85d7-5f67d6594678)
+
+
+### Registrar libros (opción 1)
+
+<img width="886" height="334" alt="image" src="https://github.com/user-attachments/assets/9600e92e-d096-4282-b8ef-071a33134dd2" />
+
+<img width="521" height="249" alt="image" src="https://github.com/user-attachments/assets/fafb3495-ccd2-4e4e-b060-a78d8a00625e" />
+
+
+### Registrar sedes (opción 2)
+
+<img width="1206" height="398" alt="image" src="https://github.com/user-attachments/assets/3a643ac6-47e8-4152-afee-f8b5d75919c9" />
+
+<img width="540" height="220" alt="image" src="https://github.com/user-attachments/assets/29671a5e-bff6-4c13-bb29-f77cf12c4076" />
+
+
+### Ejemplo de reporte (opción 4)
+
+<img width="873" height="406" alt="image" src="https://github.com/user-attachments/assets/e1dd554c-a4ee-4dae-8495-76fa00d601de" />
